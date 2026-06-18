@@ -1,6 +1,8 @@
-Exposiciones sobre Herramientas de Ingeniería de Requisitos
-Estudiante:Díaz Pontón
-Curso: 4to Software A
+# Exposiciones sobre Herramientas de Ingeniería de Requisitos
+
+**Estudiante:** Díaz Pontón
+**Curso:** 4to Software A
+
 
 # GRUPO D: Odoo
 
@@ -178,13 +180,14 @@ Mostró la creación de roles, usuarios y grupos dentro de la plataforma.
 Mostró el registro del tiempo dedicado a los requisitos.
 Demostró el uso del diagrama de Gantt.
 Presentó la gestión de calendarios dentro de la plataforma.
-Rosely Sánchez
-Teoría
+
+## Rosely Sánchez
+### Teoría
 Explicó la aplicación de Redmine en proyectos académicos.
 Realizó una comparación con otras herramientas de ingeniería de requisitos.
 Presentó un análisis crítico de la herramienta.
 Expuso las conclusiones del grupo.
-Práctica
+### Práctica
 Mostró la creación de estados para las peticiones dentro de Redmine.
 
 ----------------------------------------------------------------------------------------------------
