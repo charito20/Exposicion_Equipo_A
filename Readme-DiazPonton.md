@@ -129,7 +129,7 @@ se presentó la tendencia de Living Documentation, basada en documentación que 
 la cual analizó herramientas y técnicas de automatización en ingeniería de requisitos entre 1996 y 2022.
 
 ### Práctica
-Mostro captura usando la herramienta desde el administrador del sistema
+-Mostro captura usando la herramienta desde el administrador del sistema
 
 
 ## David Vaca
