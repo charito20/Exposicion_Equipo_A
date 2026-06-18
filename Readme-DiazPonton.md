@@ -51,7 +51,7 @@
 
 # GRUPO C: ZenTao
 
-**Integrantes:** Ariel Castro, Alex Mora, Anthony Vera y Allan Villacís.
+**Integrantes:** Ariel Castro, Alex Mora, Anthony Vera y Allan Villafuerte.
 
 ## Ariel Castro
 
