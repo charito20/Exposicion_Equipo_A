@@ -1,7 +1,9 @@
-# Exposicion_Equipo_A
-Exposición - Herramientas automatizadas para la Ingeniería de Requisitos.
-Integrantes: 
-Díaz Pontón Steven Santiago.
-Escudero Plaza María del Rosario.
-Mera Arias Erick Jhair.
-Mesías Quijije Jhon Alexander.
+# Exposición: Herramientas Automatizadas para la Ingeniería de Requisitos
+
+## Equipo A
+
+### Integrantes
+1. Díaz Pontón Steven Santiago
+2. Escudero Plaza María del Rosario
+3. Mera Arias Erick Jhair
+4. Mesías Quijije Jhon Alexander
